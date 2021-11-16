@@ -2,7 +2,7 @@
 @14Karol14
 ```
 ```
-he/him, 16 years old begginer in programming
+16 years old begginer in programming
 ``` 
 ```
 JS/PHP/MySQL
