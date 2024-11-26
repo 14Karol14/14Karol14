@@ -2,16 +2,16 @@
 @14Karol14
 ```
 ```
-16 years old begginer in programming
+Beginning student in programming
 ``` 
 ```
 JS/PHP/MySQL
 ```
 ```
-- learning Vue.js
+- learning React.js
 ```
 ```
-- planning to learn Python, Java, TypeScript
+- planning to go further into Frontend Dev roadmap
 ```
 
 <!---
